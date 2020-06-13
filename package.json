@@ -1,0 +1,34 @@
+{
+  "name": "spotifyapitesting",
+  "version": "1.0.0",
+  "description": "Practicing JS and React",
+  "main": "test.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "create-react-app": "^3.4.1",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2",
+    "yarn": "^1.22.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtr342/spotifyAPITesting.git"
+  },
+  "keywords": [
+    "Spotify",
+    "React"
+  ],
+  "author": "Justin Rabe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtr342/spotifyAPITesting/issues"
+  },
+  "homepage": "https://github.com/jtr342/spotifyAPITesting#readme"
+}
